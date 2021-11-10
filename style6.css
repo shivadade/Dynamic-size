@@ -1,0 +1,22 @@
+body{
+    margin:0 auto;
+}
+.img{
+    width:100;
+}
+.wrapper{
+    width:100%;
+    margine-left:auto;
+    margin-right:auto;
+    max-width: 500px;
+    min-width: 300px;
+.wrapper h1{
+    background-color:yellowgreen;
+    font-size:50pxpx;
+    text-align:center;
+}
+#wrapper p{
+    font-size:100px;
+    line-height:3;
+    text-align:center;
+}
